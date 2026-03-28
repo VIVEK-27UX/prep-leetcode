@@ -62,5 +62,5 @@ The platform is built using the **MERN** stack with a focus on scalability:
 ### Steps
 1. **Clone the Project**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/prep-leetcode.git](https://github.com/YOUR_USERNAME/prep-leetcode.git)
+   git clone [https://github.com/VIVEK-27UX/prep-leetcode.git](https://github.com/VIVEK-27UX/prep-leetcode.git)
    cd prep-leetcode
